@@ -1,4 +1,4 @@
-# Deploy RabbitMQ Cluster
+# Build HA RabbitMQ Cluster
 
 ## Summary
 These scripts will provision a RabbitMQ cluster on a Linux server by performing the following actions:
